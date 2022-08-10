@@ -3,10 +3,10 @@ A simple version of the blackjack game.
 ## Content
 Covers
 ```
-- Basic HTML, CSS & Bootstrap
-- js primitives, arrays, objects, arrow functions & control structures
-- underscore.js
-- Module Design Pattern & other optimizations
+Basic HTML, CSS & Bootstrap
+js primitives, arrays, objects, arrow functions & control structures
+underscore.js
+Module Design Pattern & other optimizations
 ```
 ## Notes
 Project developed in the course "JavaScript Moderno: Guía para dominar el lenguaje" (Modern JavaScript: Guide to master the language). 
