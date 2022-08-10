@@ -11,7 +11,7 @@ Module Design Pattern & clean code optimizations
 ## Demo
 [Try it!](https://pabloadbes.github.io/blackjack/)
 ## Preview
-![Preview](/assets/images/blackjack_preview.png)
+![Preview](/assets/img/blackjack_preview.png)
 ## Notes
 Project developed in the course "JavaScript Moderno: Guía para dominar el lenguaje" (Modern JavaScript: Guide to master the language). 
 Instructor: Fernando Herrera. Thanks Fernando! 
