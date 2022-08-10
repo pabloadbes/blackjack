@@ -6,8 +6,12 @@ Covers
 Basic HTML, CSS & Bootstrap
 js primitives, arrays, objects, arrow functions & control structures
 underscore.js
-Module Design Pattern & other optimizations
+Module Design Pattern & clean code optimizations
 ```
+## Demo
+[Try it!](https://pabloadbes.github.io/blackjack/)
+## Preview
+
 ## Notes
 Project developed in the course "JavaScript Moderno: Guía para dominar el lenguaje" (Modern JavaScript: Guide to master the language). 
 Instructor: Fernando Herrera. Thanks Fernando! 
